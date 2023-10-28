@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end Mobile desenvolvida em React Native para o aplicativo Daily Tasks que é voltado para cadastro de tarefas diárias, permitindo ao usuário adicionar, concluir e recuperar tarefas salvas no Storage, sem a necessidade do app consumir uma API externa.
+Aplicação Front-end Mobile desenvolvida em React Native para o aplicativo Daily Tasks que é voltado para cadastro de tarefas diárias, permitindo ao usuário adicionar, concluir e recuperar tarefas salvas no Storage do celular, sem a necessidade do app consumir uma API externa.
 
 <br><br>
 
